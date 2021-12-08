@@ -1370,4 +1370,11 @@ section {
   height: 210px;
 }
 
+.slideThreeImg {
+  background: url(_URL_) no-repeat top center;
 
+}
+.slideThreeImg {
+  width: auto;
+  height: auto;
+}
