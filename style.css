@@ -1383,3 +1383,8 @@ section {
   line-height: 1;
   width: 100%; 
   }
+
+  .about {
+    justify-content: center;
+    position:relative;
+  }
